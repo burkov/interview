@@ -10,8 +10,9 @@
 
 Необходимо получить список пользователей и отобразить его в виде массива &lt;div/&gt; элементов.
 
-REST: https://jsonplaceholder.typicode.com/users
-GQL: https://jsonplaceholder.ir/
+- REST: https://jsonplaceholder.typicode.com/users
+
+- GQL: https://jsonplaceholder.ir/graphql
 
 
 # Задание 2: Медиа-запросы
